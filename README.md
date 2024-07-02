@@ -30,7 +30,7 @@ Additional resources such as reference books, research papers, and useful links 
 
 ## Contributing
 
-We welcome contributions from other students. If you would like to contribute to this repository, please follow these steps:
+I welcome contributions from other students. If you would like to contribute to this repository, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
@@ -46,4 +46,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact us at [nabayansaha@gmail.com](mailto:nabayansaha@gmail.com).
+If you have any questions, suggestions, or feedback, please feel free to contact me at [nabayansaha@gmail.com](mailto:nabayansaha@gmail.com).
